@@ -1,8 +1,32 @@
 # Enterprise Network Architecture & Security Implementation 🏨
 
-![Network Topology](topology.png) 
-*(Note: Upload a screenshot of your Packet Tracer topology and name it topology.png)*
+### 🎥 Network Simulation Demo (OSPF, DHCP & Inter-VLAN Routing)
+![Simulation Demo](network-simulation-demo.gif)
 
+---
+
+## 🗺️ Network Topology Breakdown
+
+### Full Enterprise Architecture
+<img width="1053" height="730" alt="image" src="https://github.com/user-attachments/assets/361f3bd6-7c66-4c19-929c-3eb79bdc5ecb" />
+
+
+### Floor-by-Floor Logical Segmentation
+Here is a closer look at the VLAN segmentation and hardware deployment across different floors:
+
+**1st Floor (Reception, Store & Logistics)**
+<img width="1280" height="916" alt="floor1-reception-store-logistics" src="https://github.com/user-attachments/assets/1b37b7a3-6cfb-4bd6-80a2-7131e88520e3" />
+
+
+**2nd Floor (Finance, HR, Sales & Marketing)**
+<img width="1280" height="1006" alt="floor2-finance-hr-sales" src="https://github.com/user-attachments/assets/a8af82f2-8dcb-4f9c-9ddb-7f38cf1a226e" />
+
+
+**3rd Floor (IT & Admin - Core Infrastructure)**
+<img width="1280" height="611" alt="floor3-it-admin-servers" src="https://github.com/user-attachments/assets/d433ab48-0294-40ae-b947-486e650665fb" />
+
+
+---
 ## 📌 Executive Summary
 This repository contains the complete design, simulation, and implementation of a secure, scalable, and highly efficient enterprise network for **VIC Modern Hotel**. Designed using Cisco Packet Tracer, this project demonstrates advanced system architecture, logical network segmentation, dynamic routing, and robust security protocols across a multi-floor infrastructure.
 
