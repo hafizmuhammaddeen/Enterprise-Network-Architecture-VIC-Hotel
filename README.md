@@ -1,7 +1,8 @@
 # Enterprise Network Architecture & Security Implementation 🏨
 
 ### 🎥 Network Simulation Demo (OSPF, DHCP & Inter-VLAN Routing)
-![Simulation Demo](network-simulation-demo.gif)
+<img width="400" height="220" alt="network-simulation-demo" src="https://github.com/user-attachments/assets/08fc17dd-2a06-4579-803c-5a91638e46a4" />
+
 
 ---
 
